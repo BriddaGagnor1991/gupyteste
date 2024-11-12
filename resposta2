@@ -15,4 +15,4 @@ def check_fibonacci(n):
 # Entrada do usuário
 numero = int(input("Informe um número: "))
 resultado = check_fibonacci(numero)
-print(resultado)
+print(resultado) 
